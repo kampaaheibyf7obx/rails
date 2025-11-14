@@ -14,7 +14,7 @@ After reading this guide, you will understand:
 * How Rails reports events
 * How subscribers consume and export events
 * How tags and context work
-* How structured subscribers connect Notifications → Events
+* How structured subscribers connect Notifications -> Events
 * Where to find the authoritative API definitions
 * The structured events emitted by Rails (framework hooks)
 
